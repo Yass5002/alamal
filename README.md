@@ -43,4 +43,5 @@ Since this is a static website, no complex build process or server setup is requ
 
 ## License
 
-All Rights Reserved.
+© 2026 Yass5002. All rights reserved. See [LICENSE](./LICENSE).
+
