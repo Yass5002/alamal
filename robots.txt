@@ -8,4 +8,4 @@ Allow: /sitemap.xml
 
 
 # Specify sitemap location
-Sitemap: https://laboratoirealamal.me/sitemap.xml
+Sitemap: https://yass5002.github.io/alamal/sitemap.xml
